@@ -1,0 +1,427 @@
+@media (max-width: 1399.98px) {
+  #hankkeesi_kumppanina_slider .owl-nav {
+    left: 70%;
+  }
+  #logo_slider .owl-nav {
+    left: 45%;
+  }
+}
+@media (max-width: 1199.98px) {
+  .header-area .nav-link {
+    padding: 0 10px !important;
+  }
+  #hankkeesi_kumppanina_slider .owl-nav {
+    left: 82%;
+  }
+  #logo_slider .owl-nav {
+    left: 55%;
+  }
+  .footer-nav li {
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .header-button {
+    display: none;
+  }
+  .navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+  }
+  .header-area .navbar-toggler {
+    border: none;
+  }
+  .header-area .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .header-area .navbar-collapse {
+    background: rgba(39, 39, 39, 0.8);
+  }
+  .header-area .nav-link {
+    padding: 20px 20px !important;
+  }
+  .header-area.fixed-top .navbar-collapse {
+    background: none;
+  }
+  .header-area.fixed-top .nav-link {
+    padding: 20px 0px !important;
+  }
+  .banner-text {
+    width: 100%;
+  }
+  .banner-text h1 {
+    letter-spacing: 4px;
+  }
+  .header-button-mobile {
+    display: inline-block;
+  }
+  .banner-social-icon {
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    bottom: 124px;
+    top: auto;
+  }
+  .banner-social-icon a {
+    margin: 0px 15px;
+  }
+  .banner-arrow {
+    left: 0;
+    display: block;
+    margin: 0 auto;
+    bottom: 44px;
+  }
+  .threebox-numberarea {
+    padding: 55px 0;
+  }
+  .ziczac-cont-inner .left {
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 24px;
+  }
+  .ziczac-cont-inner .left h2 {
+    letter-spacing: 4px;
+    margin-bottom: 24px;
+  }
+  .ziczac-cont-inner .right {
+    width: 100%;
+  }
+  .ziczac-cont-inner:nth-child(even) .left {
+    order: 0;
+    padding-left: 0;
+    margin-bottom: 24px;
+  }
+  .ziczac-cont-inner {
+    margin-bottom: 55px;
+  }
+  .carousel1_area {
+    padding: 55px 0 31px 0;
+  }
+  .carousel1_area h2 {
+    letter-spacing: 4px;
+    margin-bottom: 5px;
+  }
+  #hankkeesi_kumppanina_slider .owl-nav {
+    left: auto;
+    right: 0;
+  }
+  .img-wrapper {
+    margin-top: 24px;
+  }
+  .hankkeesi_kumppanina-inner h3 {
+    letter-spacing: 3px;
+  }
+  #logo_slider .owl-nav {
+    left: auto;
+    right: 0;
+    top: -55px;
+  }
+  .footer-area {
+    padding: 55px 0;
+  }
+  .footer-top {
+    flex-wrap: wrap;
+    margin-bottom: 0;
+  }
+  .footer-logo {
+    margin: 0 auto 72px auto;
+    display: inline-flex;
+  }
+  .footer-nav {
+    width: 100%;
+    margin: 0 0 72px 0;
+  }
+  .footer-nav li {
+    display: block;
+    text-align: center;
+    margin: 0 0 24px 0;
+  }
+  .footer-bottom {
+    flex-wrap: wrap;
+  }
+  .footer-bottom-left {
+    width: 100%;
+    order: 1;
+  }
+  .footer-bottom-right {
+    width: 100%;
+    margin: 0 0 72px 0;
+  }
+  .footer-bottom-right ul {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-bottom-right ul li {
+    margin: 0 0 24px 0;
+    display: flex;
+    justify-content: center;
+  }
+  .footer-bottom-right ul li:last-child {
+    margin-bottom: 0;
+  }
+  .footer-social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer-social-icon a {
+    margin: 0 15px;
+  }
+  .footer-bottom-left p {
+    text-align: center;
+  }
+  .inner-banner-gap {
+    height: 55px;
+  }
+  .ziczac-cont-heading {
+    margin-bottom: 55px;
+  }
+  .ziczac-cont-heading h3 {
+    letter-spacing: 5px;
+    text-align: left;
+  }
+  .inner-page-ziczac-cont-area .ziczac-cont-inner:nth-child(even) .left {
+    order: 0;
+    padding-left: 0;
+  }
+  .unelma-kodissa-gallery-area {
+    padding: 31px 0 55px 0;
+  }
+  .gold-downarrow {
+    margin: 55px auto 0 auto;
+  }
+  .slider-ziczac-area {
+    margin-bottom: 31px;
+  }
+  .slider-ziczac-heading {
+    width: 100%;
+    margin: 0 auto 55px auto;
+  }
+  .slider-ziczac-heading h2 {
+    text-align: left;
+  }
+  .slider-ziczac-cont-inner {
+    flex-wrap: wrap;
+    margin-bottom: 55px;
+  }
+  .slider-ziczac-cont-inner .left {
+    width: 100%;
+  }
+  .slider-ziczac-cont-inner:nth-child(odd) .left {
+    padding-left: 0px;
+    padding-right: 0;
+    margin-top: 24px;
+  }
+  .slider-ziczac-cont-inner .right {
+    width: 100%;
+  }
+  .slider-ziczac-cont-inner:nth-child(even) .left {
+    order: 1;
+    padding-right: 0;
+    margin-top: 24px;
+  }
+  .slider-ziczac-cont-inner .left h2 {
+    margin-bottom: 24px;
+    letter-spacing: 4px;
+  }
+  .Yhteystiedot-heading {
+    width: 100%;
+    margin: 0 auto 55px auto;
+  }
+  .Yhteystiedot-heading h2 {
+    letter-spacing: 4px;
+  }
+  .Yhteystiedot-form-area {
+    padding: 55px 0;
+  }
+  .Yhteystiedot-form-area .container .row .left {
+    order: 1;
+  }
+  .Yhteystiedot-form-right h3 {
+    margin-bottom: 55px;
+  }
+  .Yhteystiedot-form-right-form {
+    margin-bottom: 55px;
+    padding: 20px;
+  }
+  .Yhteystiedot-form-left h3 {
+    text-align: center;
+    margin-bottom: 24px;
+    letter-spacing: 4px;
+  }
+  .Yhteystiedot-form-left ul li {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  .small-big-ziczac-cont-area .ziczac-cont-inner:nth-child(odd) .left {
+    order: 0;
+    padding-left: 0;
+    width: 100%;
+  }
+  .small-big-ziczac-cont-area .ziczac-cont-inner:nth-child(odd) .right {
+    width: 100%;
+  }
+  .small-big-ziczac-cont-area .ziczac-cont-inner:nth-child(even) .left {
+    order: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .rightbox-withimg_imgarea {
+    width: 100%;
+  }
+  .rightbox-withimg_imgarea {
+    float: none;
+  }
+  .rightbox-withimg_txtarea {
+    width: 95%;
+    right: 0;
+    margin: -52px auto 0 auto;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: initial;
+    transform: initial;
+  }
+  .rightbox-withimg-area {
+    padding: 55px 0;
+  }
+  .kiinteistövälitys-gallery-area {
+    padding: 55px 0;
+  }
+  .varaakuvaus-fi-inner .left {
+    width: 44%;
+  }
+  .varaakuvaus-fi-inner {
+    flex-wrap: wrap;
+  }
+
+  .varaakuvaus-fi-inner .right {
+    width: 100%;
+    padding-left: 0px;
+    margin-top: 24px;
+  }
+  .varaakuvaus-fi-inner .left {
+    width: 100%;
+  }
+  .varaakuvaus-fi-area {
+    margin-bottom: 55px;
+  }
+  .contactus_page .header-area .navbar-toggler-icon {
+    filter: brightness(0) invert(0);
+  }
+  .contactus_page .header-area.fixed-top .navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+  }
+  .contactus_page .header-area .nav-link {
+    color: #fff;
+  }
+  .contactus_page .banner-text h1 {
+    margin-bottom: 55px;
+  }
+  .contactus_page .header-button-mobile {
+    color: #272727;
+    border: 1px solid #272727;
+    margin: 0 0 55px 0;
+  }
+  .contactus_page .banner-area {
+    margin-bottom: 56px;
+  }
+  .map-area {
+    margin-bottom: 55px;
+  }
+  .hankkeesi_kumppanina-img {
+    height: 150px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .header-area .navbar-brand {
+    width: 84px;
+  }
+  .banner-text h1 {
+    font-size: 36px;
+    line-height: 150%;
+    margin-bottom: 16px;
+  }
+  .threebox-number-heading {
+    margin-bottom: 8px;
+  }
+  .threebox-number-txt h2,
+  .threebox-number-heading {
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 30px;
+  }
+  .ziczac-cont-inner .left h2 {
+    font-size: 24px;
+    line-height: 150%;
+  }
+  .carousel1_area h2 {
+    font-size: 32px;
+    line-height: 150%;
+  }
+  .ziczac-cont-heading h3,
+  .slider-ziczac-heading h2,
+  .Yhteystiedot-heading h2,
+  .rightbox-withimg-area h2 {
+    font-size: 32px;
+    line-height: 150%;
+    letter-spacing: 4px;
+  }
+  .rightbox-withimg_txtarea h3 {
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 4px;
+  }
+  .rightbox-withimg_imgarea {
+    height: 310px;
+  }
+  .Yhteystiedot-form-left h3 {
+    font-size: 20px;
+    line-height: 150%;
+  }
+  .varaakuvaus-fi-inner .right h2 {
+    font-size: 24px;
+    line-height: 150%;
+  }
+  .address {
+    order: 2;
+    margin-top: 55px;
+  }
+  .contactdetails {
+    order: 1;
+    margin-top: 55px;
+  }
+  .contactus_page .banner-text {
+    padding-top: 112px;
+  }
+  .footer-logo {
+    width: 128px;
+  }
+  .ziczac-r-img,
+  .varaakuvaus-fi-inner-r-img {
+    height: 310px;
+  }
+  .hankkeesi_kumppanina-img {
+    height: auto;
+  }
+  .hankkeesi_kumppanina-inner {
+    margin-top: 55px;
+  }
+  #logo_slider .owl-nav {
+    top: -45px;
+  }
+}
+@media (max-width: 575.98px) {
+  .rightbox-withimg-area-mobile {
+    display: block;
+  }
+  .rightbox-withimg-main {
+    display: none;
+  }
+  .rightbox-withimg-area h2 {
+    margin-bottom: 85px;
+  }
+}
